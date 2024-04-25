@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Professional Work"
-date:   2024-04-25 08:00:00 -0800
 categories: portfolio professional
 ---
 Here you'll find the things I've done professionally, from newest to oldest:

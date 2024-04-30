@@ -8,6 +8,8 @@ Here you'll find my personal projects, from newest to oldest:
 
 ## Android Renderer
 
+![Sponza with a light propagation volume](/img/AndroidRendererSponzaLPV.png)
+
 It's a renderer... for Android devices. You already knew that
 
 I worked on this between by time at EA and WB Games. It's a mobile-first rendering engine designed to take advantage of the unique features of mobile GPUs. It's built in C++, using the Vulkan graphics API.
@@ -23,6 +25,8 @@ Injecting VPLs is easy. I'm using a geometry shader to push each VPL to the righ
 That's about as far as I got before I started working at WB Games
 
 ## Sanity Engine
+
+![Lumberyard Bistro, pathtraced!](/img/SanityEnginePathtracedBistro.png)
 
 An engine made to increase my sanity!
 

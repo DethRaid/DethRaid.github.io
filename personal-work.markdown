@@ -12,7 +12,9 @@ Here you'll find my personal projects, from newest to oldest:
 
 Mesannepada is a nea game I'm working on. After getting laid off from WB I began transitioning AndroidRenderer into something more decktop-centric and more capable of creating an actual game. I've replaced the LPV with ray traced global illumination, added in ray traced reflections and ray traced translucency, started to add better debug UIs and scene editing UI, and began modeling the ancient Sumerian city of Ur. You can see some of these features in the video below:
 
-https://www.youtube.com/watch?v=za_hzg0LLgM
+[![GP Direct 2025 showcase of Mesannepada]
+(https://img.youtube.com/vi/za_hzg0LLgM/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=za_hzg0LLgM)
 
 I added a few important features after that video
 

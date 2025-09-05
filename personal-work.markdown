@@ -6,6 +6,30 @@ tags: portfolio personal
 
 Here you'll find my personal projects, from newest to oldest:
 
+## Mesannepada
+
+![Title screen of the game Mesannepada](/img/mesannepada/main_menu.png)
+
+Mesannepada is a nea game I'm working on. After getting laid off from WB I began transitioning AndroidRenderer into something more decktop-centric and more capable of creating an actual game. I've replaced the LPV with ray traced global illumination, added in ray traced reflections and ray traced translucency, started to add better debug UIs and scene editing UI, and began modeling the ancient Sumerian city of Ur. You can see some of these features in the video below:
+
+https://www.youtube.com/watch?v=za_hzg0LLgM
+
+I added a few important features after that video
+
+I've implemented glTF skeletal animation, letting characters in the game walk naturally
+
+![A Sumerian guy walking in place](/img/mesannepada/walkcycle.mp4)
+
+I've added ray traced reflections, shown here on some debug spheres of varying roughness
+
+![Shiny spheres of varying roughness, showing off reflections](/img/mesannepada/relax%20metal%20spheres.png)
+
+I've also gotten the game running on my Steam Deck! It's not running well, but it is running!
+
+![Mesannepada running on a Steam Deck](/img/mesannepada/running%20on%20deck.jpg)
+
+Graphics work is ongoing, with gameplay coming soon. Stay tuned!
+
 ## Android Renderer
 
 ![Sponza with a light propagation volume](/img/AndroidRendererSponzaLPV.png)

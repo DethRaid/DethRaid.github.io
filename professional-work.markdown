@@ -5,10 +5,15 @@ categories: portfolio professional
 ---
 Here you'll find the things I've done professionally, from newest to oldest:
 
-## Senior Advanced Rendering Engineer on an Unannounced Game
-### WB Games San Diego, April 2023 - present
+## Senior Rendering Engineer
+### Miris, June 2025 - present
 
-I'm working on an unannounced game! These are always fun to talk about
+I'm working on Miris's spatial streaming solution, optimizing the renderer for low-end devices and also trying to improve visual quality. We're doing cool stuff
+
+## Senior Advanced Rendering Engineer on an Unannounced Game
+### WB Games San Diego, April 2023 - March 2025
+
+I worked on an unannounced game! These are always fun to talk about
 
 We're using Unreal Engine 5. My role has revolved around profiling and rendering. I've helped guide conversations about which Unreal Engine 5 features we should use to achieve the artistic vision while running at 60 fps. I've spent a lot of time profiling the game with Unreal Insights, PIX, Nsight, and the Xbox Series and PlayStation 5 profilers. I've tuned various Unreal Engine cvars to make its features fit our gmae a little better, and made a few smaller engine changes to fix bugs and make features work how we need
 
